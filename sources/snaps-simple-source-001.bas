@@ -22,7 +22,7 @@ rem TODO: force ISO 100?; force f/8?; turn off LCD to save batteries?
 rem TODO: shoot raw? focus stacking to prevent blured photos?
 
 rem Command line to manually produce snaps-simple-001.bas with perl:
-rem perl -0777pe 's/\n\n/\n/g;s/rem (.*)\n//g;' snaps-simple-source-001.bas> snaps-simple-001.bas
+rem perl -0777pe 's/\n\n/\n/g;s/rem (.*)\n//g;' ./sources/snaps-simple-source-001.bas> snaps-simple-001.bas
 
 @title SNAPS-simple v0.0.1
 
