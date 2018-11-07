@@ -1,6 +1,10 @@
 rem snaps-source-001.bas -- https://github.com/CharlesNepote/snaps
-rem Better use snaps-001.bas, a version of this script without comments
-rem 
+rem
+rem **** Better use snaps-001.bas****, a version of this script without comments
+rem => Explanation: http://chdk.wikia.com/wiki/CHDK_scripting says: It takes 10ms
+rem    of time for each line of script to be interpreted by tiny uBASIC. 100 lines
+rem    takes a full second, etc. This can greatly impact high-speed uses.
+rem
 rem Rewrite of Anti-Motion Detector script aka Stillness Detector
 rem Developed on A570IS by fudgey on Allbest #49. May work on any camera.
 rem Free Software under GPL v3 Licence: https://chdk.setepontos.com/index.php/topic,1046.msg9260.html#msg9260
