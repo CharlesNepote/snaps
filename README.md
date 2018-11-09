@@ -2,7 +2,7 @@
 
 SNAPS est un script pour [CHDK](http://chdk.wikia.com) (Canon Hack Development Kit) permettant de prendre une photo lorsque l'image ne bouge pas et de répéter l'opération indéfiniment.
 
-Ce script permet d'obtenir des cadences de numérisation très importantes -- théoriquement jusqu'à 15 photos par minute -- et laisse à l'opérateur les mains libres pour d'autres usages.
+Ce script, utile à la numérisation d'ouvrages ou d'archives, permet d'obtenir des cadences très importantes -- théoriquement jusqu'à 15 photos par minute -- et laisse à l'opérateur les mains libres pour d'autres usages.
 
 Il existe deux versions de ce script :
 - la version "snaps-simple" est la plus simple d'usage et la plus rapide : elle devrait convenir à 95% des usages,
